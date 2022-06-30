@@ -4,3 +4,5 @@ Data Carpentry Workshop example
 Dogs are amazing.
 
 They love you no matter what.
+
+They need walks, food and attention
